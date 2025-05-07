@@ -1,4 +1,6 @@
 # FileHandling_in_python
+File handling refers to the process of performing operations on a file such as creating, opening, reading, writing and closing it, through a programming interface. It involves managing the data flow between the program and the file system on the storage device, ensuring that data is handled safely and efficiently.
+
 File handling in python  essential for task involving  reading from or writing to files 
 
 
@@ -20,3 +22,14 @@ In Python, the open function supports several file modes that determine how the 
 't': Text mode - Opens a file in text mode. This is the default mode if none is specified. It can also be used in conjunction with other modes (e.g., 'rt', 'wt', 'at').
 
 '+': Update mode - Opens a file for updating (both reading and writing). It is used in conjunction with other modes (e.g., 'r+', 'w+', 'a+').
+
+
+Methods
+
+Reading a File
+
+Writing to a File
+
+Closing a File
+
+Handling Exceptions When Closing a File
