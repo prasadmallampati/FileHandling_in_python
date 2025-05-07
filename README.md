@@ -23,6 +23,7 @@ In Python, the open function supports several file modes that determine how the 
 
 '+': Update mode - Opens a file for updating (both reading and writing). It is used in conjunction with other modes (e.g., 'r+', 'w+', 'a+').
 
+![image.png](attachment:image.png)
 
 Methods
 
